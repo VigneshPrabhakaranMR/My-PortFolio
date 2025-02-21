@@ -29,8 +29,7 @@ Welcome to my personal portfolio! I'm **Vignesh Prabhakaran M R**, a passionate 
 - **Projects Done:** 50+
 - **Learning Hours:** 1,000+
 
-## 📬 Contact
-I'm always open to discussing design, collaboration opportunities, or any inquiries. Feel free to reach out through the contact form on my website or connect with me on [Instagram](https://www.instagram.com/vignes_offl/).
+
 
 ---
 
